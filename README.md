@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01k6h6f1nkfdpvqjhdatx5jg8h%2F1759366429_img_0.webp?st=2025-10-01T23%3A02%3A07Z&se=2025-10-08T00%3A02%3A07Z&sks=b&skt=2025-10-01T23%3A02%3A07Z&ske=2025-10-08T00%3A02%3A07Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=5e5fc900-07cf-43e7-ab5b-314c0d877bb0&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=0DZdIZUvoYLULQuhntgs1g9sLtPrCQwLU8V5UzXbI8U%3D&az=oaivgprodscus" height="200"/>
-</p>
-<hr>
-
 <h1 align="center">Hi  I'm <a href="" target="blank">
 Isaias Glez</a></h1></h1>
 <h3 align="center">I am a passionate developer and technology enthusiast. 🚀</h3>
