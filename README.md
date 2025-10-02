@@ -5,23 +5,23 @@ Isaias Glez</a></h1></h1>
 ## Let's Connect! 🌟
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://github.com/k3pl09" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/__isaiasglez/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 
-  <a href="https://discord.gg/YOUR_DISCORD" target="_blank">
+  <a href="https://discord.gg/" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://YOUR_WEBSITE.com" target="_blank">
+  <a href="https://https://isaiasglez.site/" target="_blank">
     <img src="https://skillicons.dev/icons?i=chrome" height="40"/>
   </a>
 </div>
