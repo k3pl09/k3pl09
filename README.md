@@ -41,7 +41,7 @@ Isaias Glez</a></h1></h1>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,mui,bootstrap,html,css,sass,js,ts,figma,tailwindcss"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,mui,bootstrap,html,css,js,ts,figma,tailwindcss"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
