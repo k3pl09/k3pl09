@@ -30,7 +30,7 @@ Isaias Glez</a></h1></h1>
 
 ## GitHub Stats:
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=k3pl09&theme=dark&border_radius=5&fire=EB0000&stroke=742ECE&border=742ECE&ring=742ECE&currStreakLabel=EB0000&currStreakNum=EB0000" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k3pl09&theme=dark&border_radius=5&fire=EB0000&stroke=742ECE&border=742ECE&ring=742ECE&currStreakLabel=EB0000&currStreakNum=EB0000" alt="GitHub Streak" /></a>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
